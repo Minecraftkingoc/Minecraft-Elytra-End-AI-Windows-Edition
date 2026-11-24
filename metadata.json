@@ -1,0 +1,6 @@
+{
+  "name": "Elytra Desktop Studio — Windows 10/11 App-Wrapper",
+  "description": "Gehärteter Windows 10 und Windows 11 Desktop-Emulator mit Authenticode-Signatur, GitHub-Auto-Updater und strengem Datenschutz für https://minecraft-elytra-end-ai.lovable.app/.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
